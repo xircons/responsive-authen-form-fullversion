@@ -31,7 +31,7 @@ body {
     margin: 0;
     min-height: 100vh;
     background-color: var(--bg-color);
-    position: relative; /* Anchor for fixed/sticky elements */
+    position: relative;
 }
 
 .reg-left {
@@ -81,7 +81,7 @@ body {
     padding: 30px;
     width: 25vw;
     border-radius: 20px;
-    position: relative; /* Anchor for toggle if placed inside */
+    position: relative;
 }
 
 .heading {
